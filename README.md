@@ -10,7 +10,7 @@
 
 :computer: Technologist degree in System Analysis and Development at [IFSP](https://www.ifsp.edu.br/), São Carlos, SP, Brazil
 
-:triangular_ruler: IDE: [Dev-C++](https://sourceforge.net/projects/orwelldevcpp/)
+:triangular_ruler: IDE: [Visual Studio Code](https://code.visualstudio.com/)
 
 :calendar: Developed in the 2022 second half
 
