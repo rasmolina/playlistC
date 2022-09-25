@@ -6,7 +6,7 @@
 
 # :mortar_board: Estrutura de Dados (Data Structure)
 
-:triangular_flag_on_post: Teacher: Profa. Dra. Rodrigo Elias Bianchi
+:triangular_flag_on_post: Teacher: Profa. Dr. Rodrigo Elias Bianchi
 
 :computer: Technologist degree in System Analysis and Development at [IFSP](https://www.ifsp.edu.br/), São Carlos, SP, Brazil
 
